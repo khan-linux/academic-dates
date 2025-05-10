@@ -1,0 +1,1496 @@
+{
+  "university": "BRAC University",
+  "year": 2025,
+  "calendar": {
+    "January": {
+      "1": {
+        "day": "Wednesday",
+        "events": ["New Year Day"]
+      },
+      "2": {
+        "day": "Thursday",
+        "events": []
+      },
+      "3": {
+        "day": "Friday",
+        "events": []
+      },
+      "4": {
+        "day": "Saturday",
+        "events": []
+      },
+      "5": {
+        "day": "Sunday",
+        "events": []
+      },
+      "6": {
+        "day": "Monday",
+        "events": []
+      },
+      "7": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "8": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "9": {
+        "day": "Thursday",
+        "events": []
+      },
+      "10": {
+        "day": "Friday",
+        "events": []
+      },
+      "11": {
+        "day": "Saturday",
+        "events": []
+      },
+      "12": {
+        "day": "Sunday",
+        "events": []
+      },
+      "13": {
+        "day": "Monday",
+        "events": []
+      },
+      "14": {
+        "day": "Tuesday",
+        "events": ["Final Examination Fall 2024"]
+      },
+      "15": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "16": {
+        "day": "Thursday",
+        "events": []
+      },
+      "17": {
+        "day": "Friday",
+        "events": []
+      },
+      "18": {
+        "day": "Saturday",
+        "events": []
+      },
+      "19": {
+        "day": "Sunday",
+        "events": []
+      },
+      "20": {
+        "day": "Monday",
+        "events": ["Last Day of Submission of Results"]
+      },
+      "21": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "22": {
+        "day": "Wednesday",
+        "events": ["Publication of Results Fall 2024"]
+      },
+      "23": {
+        "day": "Thursday",
+        "events": []
+      },
+      "24": {
+        "day": "Friday",
+        "events": ["International Mother Language Day"]
+      },
+      "25": {
+        "day": "Saturday",
+        "events": ["Heavy Experiment (University closed)"]
+      },
+      "26": {
+        "day": "Sunday",
+        "events": ["Work from home"]
+      },
+      "27": {
+        "day": "Monday",
+        "events": ["Work from home"]
+      },
+      "28": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "29": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "30": {
+        "day": "Thursday",
+        "events": []
+      },
+      "31": {
+        "day": "Friday",
+        "events": ["Registration, Spring 2025"]
+      }
+    },
+    "February": {
+      "1": {
+        "day": "Saturday",
+        "events": ["Payment of tuition fees begins 2025"]
+      },
+      "2": {
+        "day": "Sunday",
+        "events": ["Registration, Spring 2025"]
+      },
+      "3": {
+        "day": "Monday",
+        "events": ["First IAT"]
+      },
+      "4": {
+        "day": "Tuesday",
+        "events": ["Classes of Spring 2025 Begin (all programs)"]
+      },
+      "5": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "6": {
+        "day": "Thursday",
+        "events": []
+      },
+      "7": {
+        "day": "Friday",
+        "events": []
+      },
+      "8": {
+        "day": "Saturday",
+        "events": ["RS Observation"]
+      },
+      "9": {
+        "day": "Sunday",
+        "events": ["RS Exam Start"]
+      },
+      "10": {
+        "day": "Monday",
+        "events": []
+      },
+      "11": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "12": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "13": {
+        "day": "Thursday",
+        "events": []
+      },
+      "14": {
+        "day": "Friday",
+        "events": ["Shab-e-Barat"]
+      },
+      "15": {
+        "day": "Saturday",
+        "events": []
+      },
+      "16": {
+        "day": "Sunday",
+        "events": []
+      },
+      "17": {
+        "day": "Monday",
+        "events": []
+      },
+      "18": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "19": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "20": {
+        "day": "Thursday",
+        "events": []
+      },
+      "21": {
+        "day": "Friday",
+        "events": []
+      },
+      "22": {
+        "day": "Saturday",
+        "events": []
+      },
+      "23": {
+        "day": "Sunday",
+        "events": []
+      },
+      "24": {
+        "day": "Monday",
+        "events": []
+      },
+      "25": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "26": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "27": {
+        "day": "Thursday",
+        "events": []
+      },
+      "28": {
+        "day": "Friday",
+        "events": ["Shab-e-Qadr"]
+      }
+    },
+    "March": {
+      "1": {
+        "day": "Saturday",
+        "events": []
+      },
+      "2": {
+        "day": "Sunday",
+        "events": []
+      },
+      "3": {
+        "day": "Monday",
+        "events": []
+      },
+      "4": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "5": {
+        "day": "Wednesday",
+        "events": ["Mid-Term Exam Spring 2025"]
+      },
+      "6": {
+        "day": "Thursday",
+        "events": []
+      },
+      "7": {
+        "day": "Friday",
+        "events": []
+      },
+      "8": {
+        "day": "Saturday",
+        "events": []
+      },
+      "9": {
+        "day": "Sunday",
+        "events": []
+      },
+      "10": {
+        "day": "Monday",
+        "events": []
+      },
+      "11": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "12": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "13": {
+        "day": "Thursday",
+        "events": []
+      },
+      "14": {
+        "day": "Friday",
+        "events": []
+      },
+      "15": {
+        "day": "Saturday",
+        "events": []
+      },
+      "16": {
+        "day": "Sunday",
+        "events": []
+      },
+      "17": {
+        "day": "Monday",
+        "events": ["Exam Preparatory"]
+      },
+      "18": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "19": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "20": {
+        "day": "Thursday",
+        "events": []
+      },
+      "21": {
+        "day": "Friday",
+        "events": []
+      },
+      "22": {
+        "day": "Saturday",
+        "events": []
+      },
+      "23": {
+        "day": "Sunday",
+        "events": []
+      },
+      "24": {
+        "day": "Monday",
+        "events": []
+      },
+      "25": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "26": {
+        "day": "Wednesday",
+        "events": ["Independence Day"]
+      },
+      "27": {
+        "day": "Thursday",
+        "events": []
+      },
+      "28": {
+        "day": "Friday",
+        "events": []
+      },
+      "29": {
+        "day": "Saturday",
+        "events": []
+      },
+      "30": {
+        "day": "Sunday",
+        "events": ["End of PHP"]
+      },
+      "31": {
+        "day": "Monday",
+        "events": ["End of PHP"]
+      }
+    },
+    "April": {
+      "1": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "2": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "3": {
+        "day": "Thursday",
+        "events": []
+      },
+      "4": {
+        "day": "Friday",
+        "events": []
+      },
+      "5": {
+        "day": "Saturday",
+        "events": []
+      },
+      "6": {
+        "day": "Sunday",
+        "events": []
+      },
+      "7": {
+        "day": "Monday",
+        "events": []
+      },
+      "8": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "9": {
+        "day": "Wednesday",
+        "events": ["Mid-Term Exam Spring 2025"]
+      },
+      "10": {
+        "day": "Thursday",
+        "events": ["Sunday Class (ID-period)"]
+      },
+      "11": {
+        "day": "Friday",
+        "events": []
+      },
+      "12": {
+        "day": "Saturday",
+        "events": []
+      },
+      "13": {
+        "day": "Sunday",
+        "events": []
+      },
+      "14": {
+        "day": "Monday",
+        "events": ["Nabo Barsha"]
+      },
+      "15": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "16": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "17": {
+        "day": "Thursday",
+        "events": []
+      },
+      "18": {
+        "day": "Friday",
+        "events": ["Last Day of Class Spring 2025"]
+      },
+      "19": {
+        "day": "Saturday",
+        "events": []
+      },
+      "20": {
+        "day": "Sunday",
+        "events": ["Exam Preparatory Period"]
+      },
+      "21": {
+        "day": "Monday",
+        "events": ["Exam Preparatory"]
+      },
+      "22": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "23": {
+        "day": "Wednesday",
+        "events": ["Final Examination Spring 2025"]
+      },
+      "24": {
+        "day": "Thursday",
+        "events": []
+      },
+      "25": {
+        "day": "Friday",
+        "events": []
+      },
+      "26": {
+        "day": "Saturday",
+        "events": ["Sunday Class (ID-L)"]
+      },
+      "27": {
+        "day": "Sunday",
+        "events": ["Mid-Term Exam Spring 2025"]
+      },
+      "28": {
+        "day": "Monday",
+        "events": []
+      },
+      "29": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "30": {
+        "day": "Wednesday",
+        "events": []
+      }
+    },
+    "May": {
+      "1": {
+        "day": "Thursday",
+        "events": ["May Day"]
+      },
+      "2": {
+        "day": "Friday",
+        "events": []
+      },
+      "3": {
+        "day": "Saturday",
+        "events": []
+      },
+      "4": {
+        "day": "Sunday",
+        "events": []
+      },
+      "5": {
+        "day": "Monday",
+        "events": []
+      },
+      "6": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "7": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "8": {
+        "day": "Thursday",
+        "events": ["Registration, Summer 2025"]
+      },
+      "9": {
+        "day": "Friday",
+        "events": []
+      },
+      "10": {
+        "day": "Saturday",
+        "events": ["Online Class (ID-L), Publication of Results"]
+      },
+      "11": {
+        "day": "Sunday",
+        "events": ["Student Purnomil"]
+      },
+      "12": {
+        "day": "Monday",
+        "events": ["RS Final Exam"]
+      },
+      "13": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "14": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "15": {
+        "day": "Thursday",
+        "events": ["Sunday Class (ID-period), Last day of semester"]
+      },
+      "16": {
+        "day": "Friday",
+        "events": ["Exam Preparatory Period"]
+      },
+      "17": {
+        "day": "Saturday",
+        "events": []
+      },
+      "18": {
+        "day": "Sunday",
+        "events": []
+      },
+      "19": {
+        "day": "Monday",
+        "events": ["Final Examination Spring 2025"]
+      },
+      "20": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "21": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "22": {
+        "day": "Thursday",
+        "events": []
+      },
+      "23": {
+        "day": "Friday",
+        "events": []
+      },
+      "24": {
+        "day": "Saturday",
+        "events": ["Last Day of Semester Summer (L-B)"]
+      },
+      "25": {
+        "day": "Sunday",
+        "events": []
+      },
+      "26": {
+        "day": "Monday",
+        "events": ["Classes of Fall 2025 End (Residential)"]
+      },
+      "27": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "28": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "29": {
+        "day": "Thursday",
+        "events": ["Online Class (ID-L), Publication of Results"]
+      },
+      "30": {
+        "day": "Friday",
+        "events": ["Heavy Experiment (University closed)"]
+      },
+      "31": {
+        "day": "Saturday",
+        "events": ["Online Class (ID-L, LLB)"]
+      }
+    },
+    "June": {
+      "1": {
+        "day": "Sunday",
+        "events": ["End of Collective Bargaining"]
+      },
+      "2": {
+        "day": "Monday",
+        "events": ["Registration, Summer 2025"]
+      },
+      "3": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "4": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "5": {
+        "day": "Thursday",
+        "events": []
+      },
+      "6": {
+        "day": "Friday",
+        "events": []
+      },
+      "7": {
+        "day": "Saturday",
+        "events": ["Eid-ul-Adha"]
+      },
+      "8": {
+        "day": "Sunday",
+        "events": []
+      },
+      "9": {
+        "day": "Monday",
+        "events": []
+      },
+      "10": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "11": {
+        "day": "Wednesday",
+        "events": ["Registration, Summer 2025"]
+      },
+      "12": {
+        "day": "Thursday",
+        "events": ["Classes of Summer 2025 End (Law)"]
+      },
+      "13": {
+        "day": "Friday",
+        "events": []
+      },
+      "14": {
+        "day": "Saturday",
+        "events": ["Classes of Summer 2025 End (LLB)"]
+      },
+      "15": {
+        "day": "Sunday",
+        "events": ["Exam Preparatory Period (L-B)"]
+      },
+      "16": {
+        "day": "Monday",
+        "events": []
+      },
+      "17": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "18": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "19": {
+        "day": "Thursday",
+        "events": ["LLB Final Exam Spring 2025"]
+      },
+      "20": {
+        "day": "Friday",
+        "events": []
+      },
+      "21": {
+        "day": "Saturday",
+        "events": []
+      },
+      "22": {
+        "day": "Sunday",
+        "events": []
+      },
+      "23": {
+        "day": "Monday",
+        "events": []
+      },
+      "24": {
+        "day": "Tuesday",
+        "events": ["Last Day of Submitting"]
+      },
+      "25": {
+        "day": "Wednesday",
+        "events": ["Classes (LLB)"]
+      },
+      "26": {
+        "day": "Thursday",
+        "events": ["Classes of Fall 2025 (UG)"]
+      },
+      "27": {
+        "day": "Friday",
+        "events": []
+      },
+      "28": {
+        "day": "Saturday",
+        "events": ["Class Drop and Withdrawal (L-B)"]
+      },
+      "29": {
+        "day": "Sunday",
+        "events": ["Graduation of Regular UG (L-B)"]
+      },
+      "30": {
+        "day": "Monday",
+        "events": []
+      }
+    },
+    "July": {
+      "1": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "2": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "3": {
+        "day": "Thursday",
+        "events": ["Last Day of Class Summer 2025"]
+      },
+      "4": {
+        "day": "Friday",
+        "events": []
+      },
+      "5": {
+        "day": "Saturday",
+        "events": []
+      },
+      "6": {
+        "day": "Sunday",
+        "events": ["Ashura (Muharram)"]
+      },
+      "7": {
+        "day": "Monday",
+        "events": []
+      },
+      "8": {
+        "day": "Tuesday",
+        "events": ["Final Examination Summer 2025"]
+      },
+      "9": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "10": {
+        "day": "Thursday",
+        "events": []
+      },
+      "11": {
+        "day": "Friday",
+        "events": []
+      },
+      "12": {
+        "day": "Saturday",
+        "events": []
+      },
+      "13": {
+        "day": "Sunday",
+        "events": []
+      },
+      "14": {
+        "day": "Monday",
+        "events": []
+      },
+      "15": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "16": {
+        "day": "Wednesday",
+        "events": ["Publication of Results Spring 2025"]
+      },
+      "17": {
+        "day": "Thursday",
+        "events": ["Last Day of Class Summer 2025"]
+      },
+      "18": {
+        "day": "Friday",
+        "events": []
+      },
+      "19": {
+        "day": "Saturday",
+        "events": []
+      },
+      "20": {
+        "day": "Sunday",
+        "events": ["Publication of Results"]
+      },
+      "21": {
+        "day": "Monday",
+        "events": []
+      },
+      "22": {
+        "day": "Tuesday",
+        "events": ["Last Day of Submitting"]
+      },
+      "23": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "24": {
+        "day": "Thursday",
+        "events": ["Publication of Results"]
+      },
+      "25": {
+        "day": "Friday",
+        "events": []
+      },
+      "26": {
+        "day": "Saturday",
+        "events": []
+      },
+      "27": {
+        "day": "Sunday",
+        "events": ["Mid-Term Exam Summer 2025"]
+      },
+      "28": {
+        "day": "Monday",
+        "events": ["Mid-Term Exam Summer 2025"]
+      },
+      "29": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "30": {
+        "day": "Wednesday",
+        "events": ["Registration (PHP), Fall 2025"]
+      },
+      "31": {
+        "day": "Thursday",
+        "events": []
+      }
+    },
+    "August": {
+      "1": {
+        "day": "Friday",
+        "events": []
+      },
+      "2": {
+        "day": "Saturday",
+        "events": []
+      },
+      "3": {
+        "day": "Sunday",
+        "events": []
+      },
+      "4": {
+        "day": "Monday",
+        "events": []
+      },
+      "5": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "6": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "7": {
+        "day": "Thursday",
+        "events": []
+      },
+      "8": {
+        "day": "Friday",
+        "events": []
+      },
+      "9": {
+        "day": "Saturday",
+        "events": []
+      },
+      "10": {
+        "day": "Sunday",
+        "events": []
+      },
+      "11": {
+        "day": "Monday",
+        "events": []
+      },
+      "12": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "13": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "14": {
+        "day": "Thursday",
+        "events": []
+      },
+      "15": {
+        "day": "Friday",
+        "events": ["Janmashtami"]
+      },
+      "16": {
+        "day": "Saturday",
+        "events": ["Janmashtami"]
+      },
+      "17": {
+        "day": "Sunday",
+        "events": []
+      },
+      "18": {
+        "day": "Monday",
+        "events": []
+      },
+      "19": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "20": {
+        "day": "Wednesday",
+        "events": ["LLB Begin (Freshman)"]
+      },
+      "21": {
+        "day": "Thursday",
+        "events": []
+      },
+      "22": {
+        "day": "Friday",
+        "events": []
+      },
+      "23": {
+        "day": "Saturday",
+        "events": []
+      },
+      "24": {
+        "day": "Sunday",
+        "events": ["Convocation"]
+      },
+      "25": {
+        "day": "Monday",
+        "events": []
+      },
+      "26": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "27": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "28": {
+        "day": "Thursday",
+        "events": []
+      },
+      "29": {
+        "day": "Friday",
+        "events": []
+      },
+      "30": {
+        "day": "Saturday",
+        "events": []
+      },
+      "31": {
+        "day": "Sunday",
+        "events": []
+      }
+    },
+    "September": {
+      "1": {
+        "day": "Monday",
+        "events": ["First class"]
+      },
+      "2": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "3": {
+        "day": "Wednesday",
+        "events": ["RS Final Exam"]
+      },
+      "4": {
+        "day": "Thursday",
+        "events": []
+      },
+      "5": {
+        "day": "Friday",
+        "events": ["Eid-e-Miladun Nabi"]
+      },
+      "6": {
+        "day": "Saturday",
+        "events": ["Classes of Summer 2025 End (Law)"]
+      },
+      "7": {
+        "day": "Sunday",
+        "events": []
+      },
+      "8": {
+        "day": "Monday",
+        "events": ["Registration, Fall 2025"]
+      },
+      "9": {
+        "day": "Tuesday",
+        "events": ["Classes of Fall 2025 Start (Law)"]
+      },
+      "10": {
+        "day": "Wednesday",
+        "events": ["Sunday Class (ID-period)"]
+      },
+      "11": {
+        "day": "Thursday",
+        "events": ["Classes of Summer 2025 End (R)"]
+      },
+      "12": {
+        "day": "Friday",
+        "events": ["Classes of Fall 2025 End"]
+      },
+      "13": {
+        "day": "Saturday",
+        "events": ["Classes of Fall 2025 End (Residential)"]
+      },
+      "14": {
+        "day": "Sunday",
+        "events": []
+      },
+      "15": {
+        "day": "Monday",
+        "events": []
+      },
+      "16": {
+        "day": "Tuesday",
+        "events": ["Final Examination Summer 2025"]
+      },
+      "17": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "18": {
+        "day": "Thursday",
+        "events": []
+      },
+      "19": {
+        "day": "Friday",
+        "events": []
+      },
+      "20": {
+        "day": "Saturday",
+        "events": ["Classes of Fall 2025 Start"]
+      },
+      "21": {
+        "day": "Sunday",
+        "events": []
+      },
+      "22": {
+        "day": "Monday",
+        "events": []
+      },
+      "23": {
+        "day": "Tuesday",
+        "events": ["Last Day of Submitting"]
+      },
+      "24": {
+        "day": "Wednesday",
+        "events": ["Publication of Results"]
+      },
+      "25": {
+        "day": "Thursday",
+        "events": ["Publication of Results"]
+      },
+      "26": {
+        "day": "Friday",
+        "events": ["Heavy Experiment (University closed)"]
+      },
+      "27": {
+        "day": "Saturday",
+        "events": ["Heavy Experiment (University closed)"]
+      },
+      "28": {
+        "day": "Sunday",
+        "events": ["Work from home"]
+      },
+      "29": {
+        "day": "Monday",
+        "events": []
+      },
+      "30": {
+        "day": "Tuesday",
+        "events": []
+      }
+    },
+    "October": {
+      "1": {
+        "day": "Wednesday",
+        "events": ["Durga Puja (Bijoya Dashami)"]
+      },
+      "2": {
+        "day": "Thursday",
+        "events": ["Durga Puja"]
+      },
+      "3": {
+        "day": "Friday",
+        "events": ["First IAT"]
+      },
+      "4": {
+        "day": "Saturday",
+        "events": []
+      },
+      "5": {
+        "day": "Sunday",
+        "events": []
+      },
+      "6": {
+        "day": "Monday",
+        "events": []
+      },
+      "7": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "8": {
+        "day": "Wednesday",
+        "events": ["Mid-Term Exam Fall 2025 (LLB)"]
+      },
+      "9": {
+        "day": "Thursday",
+        "events": ["Last Day of Withdrawal"]
+      },
+      "10": {
+        "day": "Friday",
+        "events": []
+      },
+      "11": {
+        "day": "Saturday",
+        "events": []
+      },
+      "12": {
+        "day": "Sunday",
+        "events": []
+      },
+      "13": {
+        "day": "Monday",
+        "events": ["Final Examination"]
+      },
+      "14": {
+        "day": "Tuesday",
+        "events": ["Victory Day"]
+      },
+      "15": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "16": {
+        "day": "Thursday",
+        "events": []
+      },
+      "17": {
+        "day": "Friday",
+        "events": []
+      },
+      "18": {
+        "day": "Saturday",
+        "events": ["Last Term Exam Fall 2025"]
+      },
+      "19": {
+        "day": "Sunday",
+        "events": []
+      },
+      "20": {
+        "day": "Monday",
+        "events": []
+      },
+      "21": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "22": {
+        "day": "Wednesday",
+        "events": ["Exam"]
+      },
+      "23": {
+        "day": "Thursday",
+        "events": []
+      },
+      "24": {
+        "day": "Friday",
+        "events": []
+      },
+      "25": {
+        "day": "Saturday",
+        "events": ["Christmas Day"]
+      },
+      "26": {
+        "day": "Sunday",
+        "events": []
+      },
+      "27": {
+        "day": "Monday",
+        "events": []
+      },
+      "28": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "29": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "30": {
+        "day": "Thursday",
+        "events": ["RS Final Vacation"]
+      },
+      "31": {
+        "day": "Friday",
+        "events": []
+      }
+    },
+    "November": {
+      "1": {
+        "day": "Saturday",
+        "events": []
+      },
+      "2": {
+        "day": "Sunday",
+        "events": []
+      },
+      "3": {
+        "day": "Monday",
+        "events": []
+      },
+      "4": {
+        "day": "Tuesday",
+        "events": ["Classes of Summer 2025 End (PHP)"]
+      },
+      "5": {
+        "day": "Wednesday",
+        "events": ["Exam Preparatory Classes (PHP)"]
+      },
+      "6": {
+        "day": "Thursday",
+        "events": []
+      },
+      "7": {
+        "day": "Friday",
+        "events": ["Classes of Fall 2025 End"]
+      },
+      "8": {
+        "day": "Saturday",
+        "events": []
+      },
+      "9": {
+        "day": "Sunday",
+        "events": []
+      },
+      "10": {
+        "day": "Monday",
+        "events": ["Exam Preparatory Period"]
+      },
+      "11": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "12": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "13": {
+        "day": "Thursday",
+        "events": []
+      },
+      "14": {
+        "day": "Friday",
+        "events": []
+      },
+      "15": {
+        "day": "Saturday",
+        "events": []
+      },
+      "16": {
+        "day": "Sunday",
+        "events": []
+      },
+      "17": {
+        "day": "Monday",
+        "events": []
+      },
+      "18": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "19": {
+        "day": "Wednesday",
+        "events": ["Last Day of Submitting"]
+      },
+      "20": {
+        "day": "Thursday",
+        "events": []
+      },
+      "21": {
+        "day": "Friday",
+        "events": ["Publication of Results"]
+      },
+      "22": {
+        "day": "Saturday",
+        "events": ["Work from home"]
+      },
+      "23": {
+        "day": "Sunday",
+        "events": []
+      },
+      "24": {
+        "day": "Monday",
+        "events": []
+      },
+      "25": {
+        "day": "Tuesday",
+        "events": ["Classes of Unified Test Program (Law)"]
+      },
+      "26": {
+        "day": "Wednesday",
+        "events": ["Thursday Class (ID-period)"]
+      },
+      "27": {
+        "day": "Thursday",
+        "events": []
+      },
+      "28": {
+        "day": "Friday",
+        "events": []
+      },
+      "29": {
+        "day": "Saturday",
+        "events": ["First IAT"]
+      },
+      "30": {
+        "day": "Sunday",
+        "events": []
+      }
+    },
+    "December": {
+      "1": {
+        "day": "Monday",
+        "events": []
+      },
+      "2": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "3": {
+        "day": "Wednesday",
+        "events": ["Classes of Summer 2025 End (PHP)"]
+      },
+      "4": {
+        "day": "Thursday",
+        "events": ["Classes of Summer 2025 End (PHP)"]
+      },
+      "5": {
+        "day": "Friday",
+        "events": []
+      },
+      "6": {
+        "day": "Saturday",
+        "events": ["Exam Preparatory Classes (PHP)"]
+      },
+      "7": {
+        "day": "Sunday",
+        "events": ["Classes of Fall 2025 End (Residential)"]
+      },
+      "8": {
+        "day": "Monday",
+        "events": ["Mid-Term Exam Fall 2025 (LLB)"]
+      },
+      "9": {
+        "day": "Tuesday",
+        "events": ["Final Examination Fall 2025 (Freshman)"]
+      },
+      "10": {
+        "day": "Wednesday",
+        "events": ["Exam Preparatory Period Fall 2025"]
+      },
+      "11": {
+        "day": "Thursday",
+        "events": []
+      },
+      "12": {
+        "day": "Friday",
+        "events": ["Final Examination"]
+      },
+      "13": {
+        "day": "Saturday",
+        "events": []
+      },
+      "14": {
+        "day": "Sunday",
+        "events": []
+      },
+      "15": {
+        "day": "Monday",
+        "events": []
+      },
+      "16": {
+        "day": "Tuesday",
+        "events": ["LLB Final Exam"]
+      },
+      "17": {
+        "day": "Wednesday",
+        "events": []
+      },
+      "18": {
+        "day": "Thursday",
+        "events": []
+      },
+      "19": {
+        "day": "Friday",
+        "events": ["Final Examination"]
+      },
+      "20": {
+        "day": "Saturday",
+        "events": []
+      },
+      "21": {
+        "day": "Sunday",
+        "events": ["Publication of Results"]
+      },
+      "22": {
+        "day": "Monday",
+        "events": []
+      },
+      "23": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "24": {
+        "day": "Wednesday",
+        "events": ["Heavy Experiment (University closed)"]
+      },
+      "25": {
+        "day": "Thursday",
+        "events": ["Christmas Day", "University Closed"]
+      },
+      "26": {
+        "day": "Friday",
+        "events": ["Registration, Spring 2026"]
+      },
+      "27": {
+        "day": "Saturday",
+        "events": ["Registration, Spring 2026"]
+      },
+      "28": {
+        "day": "Sunday",
+        "events": ["Thursday Class (ID-period)"]
+      },
+      "29": {
+        "day": "Monday",
+        "events": []
+      },
+      "30": {
+        "day": "Tuesday",
+        "events": []
+      },
+      "31": {
+        "day": "Wednesday",
+        "events": ["Classes of Spring 2026 Begin (All Residential)"]
+      }
+    },
+    "January 2026": {
+      "1": {
+        "day": "Thursday",
+        "events": ["New Year Day"]
+      }
+    }
+  }
+}
